@@ -11,7 +11,7 @@ Used Mechanics
 
 Used Packages
 
-- Unity NavMesh
+- Unity NavMesh Component
 - Dreamteck DOTween
 - MK Toon
 - FlatKit
