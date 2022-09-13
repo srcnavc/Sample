@@ -2,7 +2,7 @@
 
 Used Mechanics
 
-- Front and Bakc Stack
+- Front and Back Stack
 - Purchasable Land
 - Incremental Properties(Scriptable Based)
 - Different Zone Management
