@@ -1,0 +1,415 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3db36261e977b7439781663c5138ac1, type: 3}
+  m_Name: Wood Generator Levels
+  m_EditorClassIdentifier: 
+  Levels:
+  - name: Level 1 - 0 - 0
+    level: 1
+    cost: 0
+    value: 0
+  - name: Level 2 - 1 - 1
+    level: 2
+    cost: 1
+    value: 1
+  - name: Level 3 - 4 - 4
+    level: 3
+    cost: 4
+    value: 4
+  - name: Level 4 - 9 - 9
+    level: 4
+    cost: 9
+    value: 9
+  - name: Level 5 - 16 - 16
+    level: 5
+    cost: 16
+    value: 16
+  - name: Level 6 - 25 - 25
+    level: 6
+    cost: 25
+    value: 25
+  - name: Level 7 - 36 - 36
+    level: 7
+    cost: 36
+    value: 36
+  - name: Level 8 - 49 - 49
+    level: 8
+    cost: 49
+    value: 49
+  - name: Level 9 - 64 - 64
+    level: 9
+    cost: 64
+    value: 64
+  - name: Level 10 - 81 - 81
+    level: 10
+    cost: 81
+    value: 81
+  - name: Level 11 - 100 - 100
+    level: 11
+    cost: 100
+    value: 100
+  - name: Level 12 - 121 - 121
+    level: 12
+    cost: 121
+    value: 121
+  - name: Level 13 - 144 - 144
+    level: 13
+    cost: 144
+    value: 144
+  - name: Level 14 - 169 - 169
+    level: 14
+    cost: 169
+    value: 169
+  - name: Level 15 - 196 - 196
+    level: 15
+    cost: 196
+    value: 196
+  - name: Level 16 - 225 - 225
+    level: 16
+    cost: 225
+    value: 225
+  - name: Level 17 - 256 - 256
+    level: 17
+    cost: 256
+    value: 256
+  - name: Level 18 - 289 - 289
+    level: 18
+    cost: 289
+    value: 289
+  - name: Level 19 - 324 - 324
+    level: 19
+    cost: 324
+    value: 324
+  - name: Level 20 - 361 - 361
+    level: 20
+    cost: 361
+    value: 361
+  - name: Level 21 - 400 - 400
+    level: 21
+    cost: 400
+    value: 400
+  - name: Level 22 - 441 - 441
+    level: 22
+    cost: 441
+    value: 441
+  - name: Level 23 - 484 - 484
+    level: 23
+    cost: 484
+    value: 484
+  - name: Level 24 - 529 - 529
+    level: 24
+    cost: 529
+    value: 529
+  - name: Level 25 - 576 - 576
+    level: 25
+    cost: 576
+    value: 576
+  - name: Level 26 - 625 - 625
+    level: 26
+    cost: 625
+    value: 625
+  - name: Level 27 - 676 - 676
+    level: 27
+    cost: 676
+    value: 676
+  - name: Level 28 - 729 - 729
+    level: 28
+    cost: 729
+    value: 729
+  - name: Level 29 - 784 - 784
+    level: 29
+    cost: 784
+    value: 784
+  - name: Level 30 - 841 - 841
+    level: 30
+    cost: 841
+    value: 841
+  - name: Level 31 - 900 - 900
+    level: 31
+    cost: 900
+    value: 900
+  - name: Level 32 - 961 - 961
+    level: 32
+    cost: 961
+    value: 961
+  - name: Level 33 - 1024 - 1024
+    level: 33
+    cost: 1024
+    value: 1024
+  - name: Level 34 - 1089 - 1089
+    level: 34
+    cost: 1089
+    value: 1089
+  - name: Level 35 - 1156 - 1156
+    level: 35
+    cost: 1156
+    value: 1156
+  - name: Level 36 - 1225 - 1225
+    level: 36
+    cost: 1225
+    value: 1225
+  - name: Level 37 - 1296 - 1296
+    level: 37
+    cost: 1296
+    value: 1296
+  - name: Level 38 - 1369 - 1369
+    level: 38
+    cost: 1369
+    value: 1369
+  - name: Level 39 - 1444 - 1444
+    level: 39
+    cost: 1444
+    value: 1444
+  - name: Level 40 - 1521 - 1521
+    level: 40
+    cost: 1521
+    value: 1521
+  - name: Level 41 - 1600 - 1600
+    level: 41
+    cost: 1600
+    value: 1600
+  - name: Level 42 - 1681 - 1681
+    level: 42
+    cost: 1681
+    value: 1681
+  - name: Level 43 - 1764 - 1764
+    level: 43
+    cost: 1764
+    value: 1764
+  - name: Level 44 - 1849 - 1849
+    level: 44
+    cost: 1849
+    value: 1849
+  - name: Level 45 - 1936 - 1936
+    level: 45
+    cost: 1936
+    value: 1936
+  - name: Level 46 - 2025 - 2025
+    level: 46
+    cost: 2025
+    value: 2025
+  - name: Level 47 - 2116 - 2116
+    level: 47
+    cost: 2116
+    value: 2116
+  - name: Level 48 - 2209 - 2209
+    level: 48
+    cost: 2209
+    value: 2209
+  - name: Level 49 - 2304 - 2304
+    level: 49
+    cost: 2304
+    value: 2304
+  - name: Level 50 - 2401 - 2401
+    level: 50
+    cost: 2401
+    value: 2401
+  - name: Level 51 - 2500 - 2500
+    level: 51
+    cost: 2500
+    value: 2500
+  - name: Level 52 - 2601 - 2601
+    level: 52
+    cost: 2601
+    value: 2601
+  - name: Level 53 - 2704 - 2704
+    level: 53
+    cost: 2704
+    value: 2704
+  - name: Level 54 - 2809 - 2809
+    level: 54
+    cost: 2809
+    value: 2809
+  - name: Level 55 - 2916 - 2916
+    level: 55
+    cost: 2916
+    value: 2916
+  - name: Level 56 - 3025 - 3025
+    level: 56
+    cost: 3025
+    value: 3025
+  - name: Level 57 - 3136 - 3136
+    level: 57
+    cost: 3136
+    value: 3136
+  - name: Level 58 - 3249 - 3249
+    level: 58
+    cost: 3249
+    value: 3249
+  - name: Level 59 - 3364 - 3364
+    level: 59
+    cost: 3364
+    value: 3364
+  - name: Level 60 - 3481 - 3481
+    level: 60
+    cost: 3481
+    value: 3481
+  - name: Level 61 - 3600 - 3600
+    level: 61
+    cost: 3600
+    value: 3600
+  - name: Level 62 - 3721 - 3721
+    level: 62
+    cost: 3721
+    value: 3721
+  - name: Level 63 - 3844 - 3844
+    level: 63
+    cost: 3844
+    value: 3844
+  - name: Level 64 - 3969 - 3969
+    level: 64
+    cost: 3969
+    value: 3969
+  - name: Level 65 - 4096 - 4096
+    level: 65
+    cost: 4096
+    value: 4096
+  - name: Level 66 - 4225 - 4225
+    level: 66
+    cost: 4225
+    value: 4225
+  - name: Level 67 - 4356 - 4356
+    level: 67
+    cost: 4356
+    value: 4356
+  - name: Level 68 - 4489 - 4489
+    level: 68
+    cost: 4489
+    value: 4489
+  - name: Level 69 - 4624 - 4624
+    level: 69
+    cost: 4624
+    value: 4624
+  - name: Level 70 - 4761 - 4761
+    level: 70
+    cost: 4761
+    value: 4761
+  - name: Level 71 - 4900 - 4900
+    level: 71
+    cost: 4900
+    value: 4900
+  - name: Level 72 - 5041 - 5041
+    level: 72
+    cost: 5041
+    value: 5041
+  - name: Level 73 - 5184 - 5184
+    level: 73
+    cost: 5184
+    value: 5184
+  - name: Level 74 - 5329 - 5329
+    level: 74
+    cost: 5329
+    value: 5329
+  - name: Level 75 - 5476 - 5476
+    level: 75
+    cost: 5476
+    value: 5476
+  - name: Level 76 - 5625 - 5625
+    level: 76
+    cost: 5625
+    value: 5625
+  - name: Level 77 - 5776 - 5776
+    level: 77
+    cost: 5776
+    value: 5776
+  - name: Level 78 - 5929 - 5929
+    level: 78
+    cost: 5929
+    value: 5929
+  - name: Level 79 - 6084 - 6084
+    level: 79
+    cost: 6084
+    value: 6084
+  - name: Level 80 - 6241 - 6241
+    level: 80
+    cost: 6241
+    value: 6241
+  - name: Level 81 - 6400 - 6400
+    level: 81
+    cost: 6400
+    value: 6400
+  - name: Level 82 - 6561 - 6561
+    level: 82
+    cost: 6561
+    value: 6561
+  - name: Level 83 - 6724 - 6724
+    level: 83
+    cost: 6724
+    value: 6724
+  - name: Level 84 - 6889 - 6889
+    level: 84
+    cost: 6889
+    value: 6889
+  - name: Level 85 - 7056 - 7056
+    level: 85
+    cost: 7056
+    value: 7056
+  - name: Level 86 - 7225 - 7225
+    level: 86
+    cost: 7225
+    value: 7225
+  - name: Level 87 - 7396 - 7396
+    level: 87
+    cost: 7396
+    value: 7396
+  - name: Level 88 - 7569 - 7569
+    level: 88
+    cost: 7569
+    value: 7569
+  - name: Level 89 - 7744 - 7744
+    level: 89
+    cost: 7744
+    value: 7744
+  - name: Level 90 - 7921 - 7921
+    level: 90
+    cost: 7921
+    value: 7921
+  - name: Level 91 - 8100 - 8100
+    level: 91
+    cost: 8100
+    value: 8100
+  - name: Level 92 - 8281 - 8281
+    level: 92
+    cost: 8281
+    value: 8281
+  - name: Level 93 - 8464 - 8464
+    level: 93
+    cost: 8464
+    value: 8464
+  - name: Level 94 - 8649 - 8649
+    level: 94
+    cost: 8649
+    value: 8649
+  - name: Level 95 - 8836 - 8836
+    level: 95
+    cost: 8836
+    value: 8836
+  - name: Level 96 - 9025 - 9025
+    level: 96
+    cost: 9025
+    value: 9025
+  - name: Level 97 - 9216 - 9216
+    level: 97
+    cost: 9216
+    value: 9216
+  - name: Level 98 - 9409 - 9409
+    level: 98
+    cost: 9409
+    value: 9409
+  - name: Level 99 - 9604 - 9604
+    level: 99
+    cost: 9604
+    value: 9604
+  - name: Level 100 - 9801 - 9801
+    level: 100
+    cost: 9801
+    value: 9801

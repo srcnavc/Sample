@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6ddf2a0523b7084692199eda6861b88, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  ListTag: Axe
+  Name: Axe
+  List:
+  - name: FollowSpeed - 5
+    tag: FollowSpeed
+    value: 5
+  - name: CatapultForwardDistance - 10
+    tag: CatapultForwardDistance
+    value: 10
+  - name: JumpPower - 5
+    tag: JumpPower
+    value: 5
+  - name: JumpDuration - 1
+    tag: JumpDuration
+    value: 1
+  - name: HitAnimationSpeedMultiplier - 1
+    tag: HitAnimationSpeedMultiplier
+    value: 1

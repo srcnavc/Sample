@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 976f974a99c3eb64ab2fa84e7bbcabaf, type: 3}
+  m_Name: Customer Spawn Probability
+  m_EditorClassIdentifier: 
+  gameObjectList:
+  - name: Customer 1 - 0,5
+    GameObject: {fileID: 2568746243766165068, guid: 746b21459c9aa994cb8a72b850b95d53, type: 3}
+    PoolInfo: {fileID: 11400000, guid: 43d1b5ac92751ef4390c6f4096094e51, type: 2}
+    ratio: 0.5
+  - name: Customer 2 - 0,5
+    GameObject: {fileID: 2568746243766165068, guid: 3c65abbc34739534da68873c76604e1c, type: 3}
+    PoolInfo: {fileID: 11400000, guid: d55d0f18621c0154fb7cc0ad5221b30a, type: 2}
+    ratio: 0.5
+  - name: Rich Customer - 0,2
+    GameObject: {fileID: 2568746243766165068, guid: 0c0fbe10a7a77074e872132693374dfe, type: 3}
+    PoolInfo: {fileID: 11400000, guid: d66a5d78949991f478acdc45e2c00aaf, type: 2}
+    ratio: 0.2

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3db36261e977b7439781663c5138ac1, type: 3}
+  m_Name: Backup Flower Field Levels
+  m_EditorClassIdentifier: 
+  Levels:
+  - name: Level 1 - 1500 - 80
+    level: 1
+    cost: 1500
+    value: 80
+  - name: Level 2 - 2264 - 77
+    level: 2
+    cost: 2264
+    value: 77
+  - name: Level 3 - 2849 - 74
+    level: 3
+    cost: 2849
+    value: 74
+  - name: Level 4 - 3359 - 71
+    level: 4
+    cost: 3359
+    value: 71
+  - name: Level 5 - 3897 - 68
+    level: 5
+    cost: 3897
+    value: 68
+  - name: Level 6 - 4569 - 65
+    level: 6
+    cost: 4569
+    value: 65
+  - name: Level 7 - 5478 - 62
+    level: 7
+    cost: 5478
+    value: 62
+  - name: Level 8 - 6729 - 59
+    level: 8
+    cost: 6729
+    value: 59
+  - name: Level 9 - 8426 - 56
+    level: 9
+    cost: 8426
+    value: 56
+  - name: Level 10 - 10673 - 53
+    level: 10
+    cost: 10673
+    value: 53
+  - name: Level 11 - 13574 - 50
+    level: 11
+    cost: 13574
+    value: 50
+  - name: Level 12 - 17234 - 47
+    level: 12
+    cost: 17234
+    value: 47
+  - name: Level 13 - 21757 - 44
+    level: 13
+    cost: 21757
+    value: 44
+  - name: Level 14 - 27246 - 41
+    level: 14
+    cost: 27246
+    value: 41
+  - name: Level 15 - 33807 - 38
+    level: 15
+    cost: 33807
+    value: 38
+  - name: Level 16 - 41543 - 35
+    level: 16
+    cost: 41543
+    value: 35
+  - name: Level 17 - 50558 - 32
+    level: 17
+    cost: 50558
+    value: 32
+  - name: Level 18 - 60957 - 29
+    level: 18
+    cost: 60957
+    value: 29
+  - name: Level 19 - 72845 - 26
+    level: 19
+    cost: 72845
+    value: 26
+  - name: Level 20 - 86324 - 23
+    level: 20
+    cost: 86324
+    value: 23

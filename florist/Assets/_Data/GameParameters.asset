@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad0dbc83bde84629a761823a06caf010, type: 3}
+  m_Name: GameParameters
+  m_EditorClassIdentifier: 
+  paramList:
+    parameters:
+    - {fileID: 11400000, guid: 2fcde744ca82a9b4aa3724afaa6a1ad6, type: 2}
+    - {fileID: 11400000, guid: 51e08b15aa59660448114d97aa7438bf, type: 2}
+    - {fileID: 11400000, guid: 74532355416d81a4b8e46db397b41a45, type: 2}
+    - {fileID: 11400000, guid: ac5cd076b1660194084cd39839ec70bb, type: 2}
+    - {fileID: 11400000, guid: 5f650b08bef3dc04495bf64efd5c46ad, type: 2}
+  _inGameProgress: 0

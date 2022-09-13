@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: ca3b2b77fda2afd429b87932387a834d
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c177b3d3bbab70d43a3838e8c202fe1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: c38c679f14ca85c43b5710bb179f9576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 1bf51e78b15c1be45a3016a90e8c3a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 4520535b3c83c394ea255d49387898fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 66edcafa22cba4143901729a5b955958, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: lamberjackman(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cartoonish.044
+      parentName: lamberjackman(Clone)
+      position: {x: 0.0000000037252903, y: 0, z: -9.9261674e-23}
+      rotation: {x: -0.7071068, y: -0.000000010725619, z: -0.000000005573994, w: 0.7071067}
+      scale: {x: 0.98623013, y: 1.0354085, z: 1.0354085}
+    - name: Cartoonish.001
+      parentName: lamberjackman(Clone)
+      position: {x: 0.0000000037252903, y: 0, z: -9.9261674e-23}
+      rotation: {x: -0.7071068, y: -0.000000010725619, z: -0.000000005573994, w: 0.7071067}
+      scale: {x: 0.98623013, y: 1.0354085, z: 1.0354085}
+    - name: Cylinder.008
+      parentName: lamberjackman(Clone)
+      position: {x: 2.1175824e-22, y: -0.0000009536743, z: -0.000002741814}
+      rotation: {x: 0.019562392, y: -3.1727197e-25, z: 4.343692e-18, w: 0.99980867}
+      scale: {x: 0.08659126, y: 0.08659126, z: 0.03792244}
+    - name: Cartoonish.002
+      parentName: lamberjackman(Clone)
+      position: {x: 0.0000000037252903, y: 0, z: -9.9261674e-23}
+      rotation: {x: -0.7071068, y: -0.000000010725619, z: -0.000000005573994, w: 0.7071067}
+      scale: {x: 0.98623013, y: 1.0354085, z: 1.0354085}
+    - name: Cartoonish.003
+      parentName: lamberjackman(Clone)
+      position: {x: -0.00000005029142, y: 0, z: 0.0000008046627}
+      rotation: {x: -0.76190794, y: -0.000000012403297, z: -0.0000000040888306, w: 0.64768535}
+      scale: {x: 0.98623013, y: 1.0354083, z: 1.0354083}
+    - name: Sphere
+      parentName: lamberjackman(Clone)
+      position: {x: -2.6966088e-22, y: -0.0000038146973, z: 0.00000011920929}
+      rotation: {x: -0.7720105, y: 1.5143505e-17, z: -1.5143503e-17, w: 0.6356098}
+      scale: {x: 1.1758909, y: 1.175891, z: 1.175891}
+    - name: Cartoonish.004
+      parentName: lamberjackman(Clone)
+      position: {x: 0.0000000037252903, y: 0, z: -9.9261674e-23}
+      rotation: {x: -0.7071068, y: -0.000000010725619, z: -0.000000005573994, w: 0.7071067}
+      scale: {x: 0.98623013, y: 1.0354085, z: 1.0354085}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

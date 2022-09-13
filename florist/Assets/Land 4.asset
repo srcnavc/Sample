@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 660a9a8639cfd474ca5c98fcbd3210f1, type: 3}
+  m_Name: Land 4
+  m_EditorClassIdentifier: 
+  Ratios:
+  - name: Red Flower - 0,1
+    type: {fileID: 11400000, guid: 8cb8651411bd6194280a17a09a246473, type: 2}
+    PoolInfo: {fileID: 11400000, guid: bde4497a0de47d64daf21b67faaddcd5, type: 2}
+    ratio: 0.1
+  - name: Blue Flower - 0,4
+    type: {fileID: 11400000, guid: 0e6bafc2863dae947a3852c4d50301a4, type: 2}
+    PoolInfo: {fileID: 11400000, guid: cb2646af9022e614aa61d1a7f7a8ed1f, type: 2}
+    ratio: 0.4
+  - name: Yellow Flower - 0,5
+    type: {fileID: 11400000, guid: 6f1d17d210d64b84a85429d28fa4755f, type: 2}
+    PoolInfo: {fileID: 11400000, guid: 31df1a5ce3e7ad442945d9dced4cc752, type: 2}
+    ratio: 0.5

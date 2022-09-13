@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FrontStackIndicator
+  - Log
+  - Axe
+  - Trap
+  - Road
+  - Barricade
+  - StackLog
+  - IdleGround
+  - Storage
+  - Runner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Tree
+  - Road
+  - Axe
+  - Building
+  - Collectable
+  - Trap
+  - Barricade
+  - StackLog
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3db36261e977b7439781663c5138ac1, type: 3}
+  m_Name: Flower Field Levels
+  m_EditorClassIdentifier: 
+  Levels:
+  - name: Level 1 - 50 - 30
+    level: 1
+    cost: 50
+    value: 30
+  - name: Level 2 - 384 - 30
+    level: 2
+    cost: 384
+    value: 30
+  - name: Level 3 - 679 - 29
+    level: 3
+    cost: 679
+    value: 29
+  - name: Level 4 - 942 - 29
+    level: 4
+    cost: 942
+    value: 29
+  - name: Level 5 - 1180 - 28
+    level: 5
+    cost: 1180
+    value: 28
+  - name: Level 6 - 1399 - 28
+    level: 6
+    cost: 1399
+    value: 28
+  - name: Level 7 - 1606 - 28
+    level: 7
+    cost: 1606
+    value: 28
+  - name: Level 8 - 1808 - 27
+    level: 8
+    cost: 1808
+    value: 27
+  - name: Level 9 - 2011 - 27
+    level: 9
+    cost: 2011
+    value: 27
+  - name: Level 10 - 2222 - 26
+    level: 10
+    cost: 2222
+    value: 26
+  - name: Level 11 - 2447 - 26
+    level: 11
+    cost: 2447
+    value: 26
+  - name: Level 12 - 2694 - 26
+    level: 12
+    cost: 2694
+    value: 26
+  - name: Level 13 - 2969 - 25
+    level: 13
+    cost: 2969
+    value: 25
+  - name: Level 14 - 3279 - 25
+    level: 14
+    cost: 3279
+    value: 25
+  - name: Level 15 - 3630 - 24
+    level: 15
+    cost: 3630
+    value: 24
+  - name: Level 16 - 4028 - 24
+    level: 16
+    cost: 4028
+    value: 24
+  - name: Level 17 - 4482 - 24
+    level: 17
+    cost: 4482
+    value: 24
+  - name: Level 18 - 4997 - 23
+    level: 18
+    cost: 4997
+    value: 23
+  - name: Level 19 - 5580 - 23
+    level: 19
+    cost: 5580
+    value: 23
+  - name: Level 20 - 6237 - 22
+    level: 20
+    cost: 6237
+    value: 22
+  - name: Level 21 - 6976 - 22
+    level: 21
+    cost: 6976
+    value: 22
+  - name: Level 22 - 7803 - 22
+    level: 22
+    cost: 7803
+    value: 22
+  - name: Level 23 - 8725 - 21
+    level: 23
+    cost: 8725
+    value: 21
+  - name: Level 24 - 9748 - 21
+    level: 24
+    cost: 9748
+    value: 21
+  - name: Level 25 - 10879 - 20
+    level: 25
+    cost: 10879
+    value: 20
+  - name: Level 26 - 12124 - 20
+    level: 26
+    cost: 12124
+    value: 20
+  - name: Level 27 - 13492 - 20
+    level: 27
+    cost: 13492
+    value: 20
+  - name: Level 28 - 14987 - 19
+    level: 28
+    cost: 14987
+    value: 19
+  - name: Level 29 - 16616 - 19
+    level: 29
+    cost: 16616
+    value: 19
+  - name: Level 30 - 18388 - 18
+    level: 30
+    cost: 18388
+    value: 18
+  - name: Level 31 - 20307 - 18
+    level: 31
+    cost: 20307
+    value: 18
+  - name: Level 32 - 22381 - 18
+    level: 32
+    cost: 22381
+    value: 18
+  - name: Level 33 - 24616 - 17
+    level: 33
+    cost: 24616
+    value: 17
+  - name: Level 34 - 27019 - 17
+    level: 34
+    cost: 27019
+    value: 17
+  - name: Level 35 - 29597 - 16
+    level: 35
+    cost: 29597
+    value: 16
+  - name: Level 36 - 32357 - 16
+    level: 36
+    cost: 32357
+    value: 16
+  - name: Level 37 - 35304 - 16
+    level: 37
+    cost: 35304
+    value: 16
+  - name: Level 38 - 38446 - 15
+    level: 38
+    cost: 38446
+    value: 15
+  - name: Level 39 - 41790 - 15
+    level: 39
+    cost: 41790
+    value: 15
+  - name: Level 40 - 45342 - 14
+    level: 40
+    cost: 45342
+    value: 14
+  - name: Level 41 - 49108 - 14
+    level: 41
+    cost: 49108
+    value: 14
+  - name: Level 42 - 53096 - 14
+    level: 42
+    cost: 53096
+    value: 14
+  - name: Level 43 - 57312 - 13
+    level: 43
+    cost: 57312
+    value: 13
+  - name: Level 44 - 61762 - 13
+    level: 44
+    cost: 61762
+    value: 13
+  - name: Level 45 - 66454 - 12
+    level: 45
+    cost: 66454
+    value: 12
+  - name: Level 46 - 71395 - 12
+    level: 46
+    cost: 71395
+    value: 12
+  - name: Level 47 - 76590 - 12
+    level: 47
+    cost: 76590
+    value: 12
+  - name: Level 48 - 82046 - 11
+    level: 48
+    cost: 82046
+    value: 11
+  - name: Level 49 - 87770 - 11
+    level: 49
+    cost: 87770
+    value: 11
+  - name: Level 50 - 93769 - 10
+    level: 50
+    cost: 93769
+    value: 10

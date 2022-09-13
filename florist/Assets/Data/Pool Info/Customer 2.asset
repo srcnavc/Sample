@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b155a42e65632a9498709e6a6a72fe07, type: 3}
+  m_Name: Customer 2
+  m_EditorClassIdentifier: 
+  PoolName: cutomer_2
+  PoolId: 0
+  Prefab: {fileID: 2568746243766165068, guid: 3c65abbc34739534da68873c76604e1c, type: 3}
+  initSize: 120
+  maxSize: 120
+  ExtendModel: 2
